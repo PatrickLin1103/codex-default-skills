@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    {
+      "id": "default-coding-skills",
+      "name": "Default Coding Skills",
+      "description": "Reusable Codex skills for minimal, safe, compatibility-preserving coding work.",
+      "version": "0.1.0",
+      "path": "../../plugins/default-coding-skills"
+    }
+  ]
+}
